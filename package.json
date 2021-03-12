@@ -10,7 +10,7 @@
     "clsx": "^1.0.4",
     "date-fns": "^2.2.1",
     "jquery": "^3.4.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
